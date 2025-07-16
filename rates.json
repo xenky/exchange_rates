@@ -1,8 +1,8 @@
 {
     "date": "16/07/2025",
     "BCV": {
-        "usdves": 117.4036,
-        "eurves": 136.15999913
+        "usdves": null,
+        "eurves": null
     },
     "BanRep": {
         "usdcop": 4031.86
