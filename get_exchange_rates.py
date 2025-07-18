@@ -107,7 +107,7 @@ def get_bce_rate():
 
 def main():
     # Obtener fecha actual en formato dd/mm/YYYY
-    current_date = datetime.now().strftime("%d/%m/%Y")
+    current_date = datetime.now().strftime("%d/%m/%Y %I:%M %p")
     
     print("Obteniendo tasas de cambio...")
     print(f"Fecha de consulta: {current_date}")
