@@ -1,11 +1,11 @@
 {
-    "date": "10/09/2025 09:18 PM",
+    "date": "10/09/2025 10:19 PM",
     "BCV": {
-        "usdves": 156.3739,
-        "eurves": 183.33901531
+        "usdves": null,
+        "eurves": null
     },
     "BanRep": {
-        "usdcop": 3919.13
+        "usdcop": 3921.58
     },
     "BCE": {
         "eurusd": 1.1707
